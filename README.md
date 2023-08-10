@@ -18,7 +18,7 @@ I am a seasoned Full Stack Software Developer from Pakistan 🇵🇰, with a pas
 
 ### About Me
 
-I bring over [Number] years of experience to the table as a Full Stack Software Developer, specializing in creating robust web and mobile applications. My expertise extends across various technologies, with a keen focus on crafting high-quality solutions that align with business objectives.
+I bring over 3 years of experience to the table as a Full Stack Software Developer, specializing in creating robust web and mobile applications. My expertise extends across various technologies, with a keen focus on crafting high-quality solutions that align with business objectives.
 
 ### Expertise
 
