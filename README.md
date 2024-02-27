@@ -9,10 +9,6 @@ I am a seasoned Full Stack Software Developer from Pakistan 🇵🇰, with a pas
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/aqib.aslam/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
 </div>
 <br>
 
